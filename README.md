@@ -226,6 +226,46 @@
 </div>
 
 <!-- Cool Footer -->
+## 🌐 Portfolio & Contact
+
+<div align="center" style="background: linear-gradient(-45deg, #e6f3ff, #f0f8ff, #e6e9ff, #f5f5ff);
+            background-size: 400% 400%;
+            animation: gradient 15s ease infinite;
+            border-radius: 10px;
+            padding: 20px;
+            margin: 20px 0;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+
+### 🎨 My Websites
+<p align="center">
+  <a href="https://www.digimetashop.com" target="_blank">
+    <img src="https://img.shields.io/badge/DigiMetaShop-00C7B7?style=for-the-badge&logo=internet-explorer&logoColor=white"/>
+  </a>
+  <a href="https://www.digimeta007.com" target="_blank">
+    <img src="https://img.shields.io/badge/DigiMeta007-1a73e8?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
+</p>
+
+### 📱 Connect With Me
+<p align="center">
+  <a href="https://wa.me/6282141733187" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/yourlinkedin" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:youremail@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=indri007&color=blueviolet&style=flat-square&label=Profile+Views"/>
+</div>
+
+</div>
+
+<!-- Cool Footer -->
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 =======
  Hi there 👋
