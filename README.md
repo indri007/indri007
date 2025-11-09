@@ -149,7 +149,27 @@
   </a>
 </div>
 
-<!-- Add this at the bottom of your README to create a cool footer -->
+<!-- Quote Section -->
+<div align="center">
+  <br/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
+  
+  <h2>💭 Words to Code By</h2>
+  
+  <div style="background: #1a1b27; padding: 20px; border-radius: 10px; margin: 20px 0;">
+    <i>"Stay Hungry. Stay Foolish."</i><br/>
+    - Steve Jobs
+  </div>
+
+  <h2>🤣 Developer Joke of the Day</h2>
+  
+  <div style="background: #1a1b27; padding: 20px; border-radius: 10px; margin: 20px 0;">
+    Why do programmers prefer dark mode?<br/>
+    <i>Because light attracts bugs! 🪲</i>
+  </div>
+</div>
+
+<!-- Cool Footer -->
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 =======
  Hi there 👋
