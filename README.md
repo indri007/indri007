@@ -1,11 +1,22 @@
 <div align="right">
-  <img alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/06f21a161921919.63cd7887d0a2f.gif" />
+  <img alt="Coding" width="400" src="https://cdna.artstation.com/p/assets/images/images/042/631/286/original/bryan-rodriguez-belchibia-1-rightside.gif" />
 </div>
 
-# 👋 Hi, I'm Indri! 
+<div align="left">
+  <img alt="Coding Girl" width="180" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
+</div>
+
+# ✨ Hello World, I'm Indri! 
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&center=true&vCenter=true&width=435&lines=Fullstack+Developer;Creative+Problem+Solver;Tech+Enthusiast;Innovation+Driver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=25&pause=1000&color=00B9FF&center=true&vCenter=true&width=435&lines=Fullstack+Developer+%F0%9F%92%BB;Creative+Problem+Solver+%F0%9F%8C%9F;Tech+Enthusiast+%F0%9F%9A%80;Code+Artist+%F0%9F%8E%A8" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <p style="font-size: 16px; color: #00B9FF;">
+    💡 Turning Coffee into Code | Making Ideas Come to Life ✨
+  </p>
+</div>
 </div>
 
 <br/>
