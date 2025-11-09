@@ -1,12 +1,43 @@
-<div align="right">
-  <img alt="Coding" width="400" src="https://cdna.artstation.com/p/assets/images/images/042/631/286/original/bryan-rodriguez-belchibia-1-rightside.gif" />
+<div align="center" width="100%">
+
+```diff
+@@             Welcome to my coding universe!            @@
+@@           Where creativity meets technology           @@
+```
+
 </div>
 
-<div align="left">
-  <img alt="Coding Girl" width="180" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
+<div align="center" width="100%">
+  <!-- Professional animated background wrapper -->
+  <div style="background: linear-gradient(-45deg, #e6f3ff, #f0f8ff, #e6e9ff, #f5f5ff);
+              background-size: 400% 400%;
+              animation: gradient 15s ease infinite;
+              border-radius: 10px;
+              padding: 20px;
+              box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+    
+  <div align="right">
+    <img alt="Coding" width="400" src="https://cdna.artstation.com/p/assets/images/images/042/631/286/original/bryan-rodriguez-belchibia-1-rightside.gif" />
+  </div>
+
+  <div align="left">
+    <img alt="Coding Girl" width="180" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
+  </div>
+
+  </div>
 </div>
 
-# ✨ Hello World, I'm Indri! 
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:a6dcef,100:99d6ff&height=120&section=header&text=Hello%20World,%20I'm%20Indri!&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=30&desc=Professional%20Full%20Stack%20Developer&descSize=20&descAlignY=50"/>
+</div>
+
+<style>
+  @keyframes gradient {
+    0% { background-position: 0% 50%; }
+    50% { background-position: 100% 50%; }
+    100% { background-position: 0% 50%; }
+  }
+</style>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=25&pause=1000&color=00B9FF&center=true&vCenter=true&width=435&lines=Fullstack+Developer+%F0%9F%92%BB;Creative+Problem+Solver+%F0%9F%8C%9F;Tech+Enthusiast+%F0%9F%9A%80;Code+Artist+%F0%9F%8E%A8" alt="Typing SVG" />
@@ -23,7 +54,19 @@
 
 <div align="center">
   
-  # 💻 Tech Stack
+  <div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:99d6ff,100:a6dcef&height=120&section=footer"/>
+</div>
+
+<div align="center" style="background: linear-gradient(-45deg, #e6f3ff, #f0f8ff, #e6e9ff, #f5f5ff);
+            background-size: 400% 400%;
+            animation: gradient 15s ease infinite;
+            border-radius: 10px;
+            padding: 20px;
+            margin: 20px 0;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+
+# 🎯 Tech Stack
   
   <details open>
   <summary><h3>🎨 Frontend</h3></summary>
