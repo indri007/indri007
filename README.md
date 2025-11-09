@@ -263,6 +263,16 @@
   <img src="https://komarev.com/ghpvc/?username=indri007&color=blueviolet&style=flat-square&label=Profile+Views"/>
 </div>
 
+### 🚀 Deployment Status
+<p align="center">
+  <a href="https://indri007.vercel.app" target="_blank">
+    <img src="https://therealsujitk-vercel-badge.vercel.app/?app=indri007" alt="Vercel Deployment" />
+  </a>
+  <a href="https://indri007.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/View_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="View Portfolio" />
+  </a>
+</p>
+
 </div>
 
 <!-- Cool Footer -->
