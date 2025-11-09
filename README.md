@@ -1,5 +1,5 @@
 <div align="right">
-  <img alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif" />
+  <img alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/06f21a161921919.63cd7887d0a2f.gif" />
 </div>
 
 # 👋 Hi, I'm Indri! 
