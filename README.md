@@ -7,26 +7,6 @@
 
 </div>
 
-<div align="center" width="100%">
-  <!-- Professional animated background wrapper -->
-  <div style="background: linear-gradient(-45deg, #e6f3ff, #f0f8ff, #e6e9ff, #f5f5ff);
-              background-size: 400% 400%;
-              animation: gradient 15s ease infinite;
-              border-radius: 10px;
-              padding: 20px;
-              box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
-    
-  <div align="right">
-    <img alt="Coding" width="400" src="https://cdna.artstation.com/p/assets/images/images/042/631/286/original/bryan-rodriguez-belchibia-1-rightside.gif" />
-  </div>
-
-  <div align="left">
-    <img alt="Coding Girl" width="180" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
-  </div>
-
-  </div>
-</div>
-
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:a6dcef,100:99d6ff&height=120&section=header&text=Hello%20World,%20I'm%20Indri!&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=30&desc=Professional%20Full%20Stack%20Developer&descSize=20&descAlignY=50"/>
 </div>
